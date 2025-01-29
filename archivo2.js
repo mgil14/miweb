@@ -1,0 +1,1 @@
+prompt('adios prueba')
